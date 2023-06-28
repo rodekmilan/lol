@@ -1,0 +1,118 @@
+body {
+    background-image: url(./img/league-of-legends-gray-logo.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+h1{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 8px 8px 8px black;
+    box-shadow: rgb(51, 57, 63) 10px 10px 10px;
+    background-color: rgb(69, 84, 102);
+    margin-right: 35%;
+    margin-left: 35%;
+}    
+p{
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+    font-size:larger;
+}
+.Zilean{
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+}
+.játék {
+    max-width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+    
+    
+  }
+.zilean-szoveg{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left;
+    
+}
+summary{
+    color: #21064d;
+}
+.yone{
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+}
+.yone_szoveg{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left; 
+}
+.wukong_szoveg{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left; 
+}
+hr{
+    border: none;
+    border-top: 5px solid #3d3e52;
+}
+.rengar{
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+}
+.rengar_szoveg{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left; 
+}
+.nidalee{
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+}
+.nidalee_szoveg{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left; 
+}
+  
+
+
+
+
+  
+nav {
+    border-radius: 15px;
+    background-color: #3d3e52;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 10;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  nav ul li a:hover {
+    color: #000000;
+  }
+
